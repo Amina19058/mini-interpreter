@@ -28,7 +28,7 @@ Lambda language has two **built-in functions** dealing with input and output:
 	- Blocks, etc.
 - Expressions
 	- Literals (integer, floating point and true, false literals)
-    	- Identifiers
+	- Identifiers
 	- Function call
 	- Post- and preincrement and post- and predecrement, eg. i++, i--, ++i, --i
 	- Arithmetic operations (addition, subtraction, multiplication, and division)
