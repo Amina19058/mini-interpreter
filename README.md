@@ -4,6 +4,9 @@ Lambda is imperative interpreted programming C++ like language.
 Extension of the Lambda programing language id `.mini`.
 
 
+The full documentation is here: https://www.notion.so/Lambda-Programming-Language-c557298411894b74ac4fa3dd8466b922
+
+
 ## Features
 
 - variables
