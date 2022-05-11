@@ -1,11 +1,21 @@
-# Lambda language (Proto)
+# Lambda programming language
 
 Lambda is imperative interpreted programming C++ like language.
-Extension of the Lambda programing language id `.mini`.
+Extension of the Lambda programming language id `.mini`.
 
 
 The full documentation is here: https://www.notion.so/Lambda-Programming-Language-c557298411894b74ac4fa3dd8466b922
 
+
+## Language specification
+
+### Program
+
+A program is a sequence of definitions. It may also contain comments and preprocessor directives, which are just ignored by the parser. 
+
+An interpretable program must have a function `main` of type `int` that takes no arguments. 
+
+It may or may not have a `return` statement.
 
 ## Features
 
